@@ -1,5 +1,5 @@
-#ifndef _MAIN_H_
-#define _MAIN_H_
+#ifndef _main_h_
+#define _main_h_
 /**
  * _putchar - writes the character c to std
  * @c: parameter to compare
@@ -78,3 +78,4 @@ void print_to_98(int n);
  */
 void print_times_table(int n);
 #endif
+
