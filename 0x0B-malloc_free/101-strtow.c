@@ -83,4 +83,3 @@ char **strtow(char *str)
 	s = helper(word, len, str, s);
 	return (s);
 }
-
