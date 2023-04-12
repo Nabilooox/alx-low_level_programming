@@ -39,8 +39,3 @@ int **alloc_grid(int width, int height)
 
 	return (t);
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-

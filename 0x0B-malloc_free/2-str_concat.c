@@ -50,8 +50,3 @@ char *str_concat(char *s1, char *s2)
 	conc[i + len1] = '\0';
 	return (conc);
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Pr
